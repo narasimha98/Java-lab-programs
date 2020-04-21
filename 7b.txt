@@ -1,0 +1,1 @@
+Hello this a sample test file to show contents of 7b program using servlet concept.
